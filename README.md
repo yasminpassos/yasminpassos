@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any company that is willing to teach. But, I have experience in custumer service, I'm communicative and easily adapt to changes. 
 - 📫 You can reach me at:
 <ol>
-  <li>My personal e-mail yasming.passos@gmail.com,</li>
+  <li>My personal e-mail yasming.passos@gmail.com.</li>
   <li>My LinkedIn acount:https://www.linkedin.com/in/yasming-passos/. </li>
 
   <!---
