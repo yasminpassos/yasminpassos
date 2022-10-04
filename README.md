@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasminpassos
-- 👀 I’m interested in work as a intern.
+- 👀 I’m interested in work as a intern or a Front End Developer Jr.  
 - 🌱 I’m currently learning programming language, like HTML. CSS, JavaScript, SQL. And I'm making my own website and working on other personal projetcts.
 - 💞️ I’m looking to collaborate on any company that is willing to teach. But, I have experience in custumer service, I'm communicative and easily adapt to changes. 
 - 📫 You can reach me at:
